@@ -1,1 +1,2 @@
 ajouter fichier texte 2 avec ecriture
+i love git it very smart 
